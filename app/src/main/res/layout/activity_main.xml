@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="570dp"
+        android:layout_marginBottom="498dp"
         android:hint="Enter code"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -23,6 +23,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="458dp"
+        android:layout_marginBottom="400dp"
         android:hint="Enter Code" />
 </RelativeLayout>
