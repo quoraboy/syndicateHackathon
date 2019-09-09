@@ -1,4 +1,4 @@
-# syndicateHackathon
+#### syndicateHackathon
 Android App based on VOICE BASED GRIEVANCE REDRESSAL developed for SYND-INNOVATE Hackathon
 
 #### Dataset Used:-
