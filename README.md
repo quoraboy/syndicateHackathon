@@ -1,6 +1,8 @@
 #### syndicateHackathon
 Android App based on VOICE BASED GRIEVANCE REDRESSAL developed for SYND-INNOVATE Hackathon
 
+The Grievance Redressal System articulates the objective to minimize instances that give rise to customer complaints and create a review mechanism to ensure consistently superior service behaviour. Every organisation aims to offer the best in class service to its customers. However sometimes it happens that the customer feels that the organisation has fallen short of his/her expectations in their service delivery at any point, and therefore voicing their feedback, grievance and suggestions becomes necessary in such cases.
+
 #### Dataset Used:-
 
 [Link](https://data.consumerfinance.gov/api/views/s6ew-h6mp/rows.csv?accessType=DOWNLOAD)
